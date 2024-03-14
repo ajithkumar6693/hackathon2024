@@ -1,5 +1,7 @@
 # Azure OpenAI PDF Reader and Question Answerer
 
+The aim of this Proof of Concept (POC) is to demonstrate an application capable of reading content from both PDF and Word documents and utilizing Azure OpenAI's capabilities to answer questions based on the document's content. This tool leverages the GPT model deployed on Azure for extracting meaningful answers from the text contained within the documents.
+
 This Python application reads text from a PDF file and uses an Azure OpenAI model to answer questions based on the PDF's content. It utilizes the Azure OpenAI API to interact with a GPT model deployed on Azure.
 
 ## Prerequisites
